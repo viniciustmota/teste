@@ -1,0 +1,29 @@
+.corpo{
+    background-color: rgb(126, 126, 248);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .btn{
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 8px 16px;
+    cursor: pointer;
+    box-shadow: 2px 6px 15px #222222;
+    position: absolute;
+    width: 172px;
+    height: 40px;
+  
+  }
+  
+  .btn:hover{
+    font-size: 24px;
+    width: 240px;
+    height: 48px;
+  }
+  .cor{
+    background: rgb(28, 28, 255);
+  }
